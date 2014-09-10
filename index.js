@@ -6,6 +6,7 @@
  * @author anotherpit <anotherpit@gmail.com>
  */
 var module = angular.module('anotherpit/angular-media', ['ng']);
+module.minErr = angular.$$minErr(module.name);
 
 /**
  * @ngdoc type
