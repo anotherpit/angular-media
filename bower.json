@@ -1,0 +1,28 @@
+{
+  "name": "angular-media",
+  "version": "0.1.0",
+  "homepage": "https://github.com/anotherpit/angular-media",
+  "authors": [
+    "anotherpit <anotherpit@gmail.com>"
+  ],
+  "description": "AngularJS × HTML5 Media API",
+  "main": "index.js",
+  "keywords": [
+    "html5",
+    "angular",
+    "media",
+    "audio",
+    "video"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": ">=1.2"
+  }
+}
